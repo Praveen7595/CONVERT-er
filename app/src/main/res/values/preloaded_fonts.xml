@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/advent_pro_thin</item>
+        <item>@font/aldrich</item>
+        <item>@font/alegreya_sc_bold</item>
+        <item>@font/allerta_stencil</item>
+        <item>@font/armata</item>
+        <item>@font/artifika</item>
+        <item>@font/audiowide</item>
+        <item>@font/special_elite</item>
+    </array>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ppkpk/AndroidStudioProjects/CONVERTer2/app/src/main/res/drawable/ic_baseline_keyboard_backspace_24.xml" value="0.2578125" />
+        <entry key="..\:/Users/ppkpk/AndroidStudioProjects/CONVERTer2/app/src/main/res/layout/activity_area.xml" value="0.22760416666666666" />
+        <entry key="..\:/Users/ppkpk/AndroidStudioProjects/CONVERTer2/app/src/main/res/layout/activity_length.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/ppkpk/AndroidStudioProjects/CONVERTer2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/ppkpk/AndroidStudioProjects/CONVERTer2/app/src/main/res/layout/activity_speed.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/ppkpk/AndroidStudioProjects/CONVERTer2/app/src/main/res/layout/activity_temperature.xml" value="0.22760416666666666" />
+        <entry key="..\:/Users/ppkpk/AndroidStudioProjects/CONVERTer2/app/src/main/res/layout/category.xml" value="0.264" />
+        <entry key="..\:/Users/ppkpk/AndroidStudioProjects/CONVERTer2/app/src/main/res/layout/fragment_currency.xml" value="0.264" />
+        <entry key="..\:/Users/ppkpk/AndroidStudioProjects/CONVERTer2/app/src/main/res/layout/fragment_units.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/ppkpk/AndroidStudioProjects/CONVERTer2/app/src/main/res/layout/length.xml" value="0.24166666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
